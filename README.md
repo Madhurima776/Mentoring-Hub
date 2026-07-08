@@ -14,7 +14,7 @@
 
 Managing student mentoring manually — collecting weekly reports from faculty, tracking attendance, monitoring academic progress, and coordinating between mentors and coordinators — is time-consuming and highly error-prone.
 
-**Mentoring Hub** solves this by digitizing the entire mentoring workflow for **Sreenidhi Institute of Engineering and Technology for Women (SVECW)**. Mentors submit structured weekly reports online, coordinators get real-time visibility into faculty response rates and student performance, and the admin can bulk-upload all users via CSV/Excel. Every role gets a dedicated dashboard with only the data and actions relevant to them, secured via JWT-based role authentication.
+**Mentoring Hub** solves this by digitizing the entire mentoring workflow for **Shri Vishnu Engineering College for Women (SVECW)**. Mentors submit structured weekly reports online, coordinators get real-time visibility into faculty response rates and student performance, and the admin can bulk-upload all users via CSV/Excel. Every role gets a dedicated dashboard with only the data and actions relevant to them, secured via JWT-based role authentication.
 
 ---
 
