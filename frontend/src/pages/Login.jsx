@@ -56,7 +56,7 @@ export default function Login() {
             Counselling<span className="text-green-300"> Hub</span>
           </h1>
           <p className="text-green-400 text-xs mt-1 tracking-widest uppercase">
-            Sreenidhi Institute
+            SVECW College
           </p>
         </div>
 
